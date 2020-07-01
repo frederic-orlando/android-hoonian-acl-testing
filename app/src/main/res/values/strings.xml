@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">testMVP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_empty">DATA KOSONG</string>
+    <string name="text_loading_data">Mengunduh Data</string>
+    <string name="text_view_empty"></string>
+
+    <string name="waiting_download">Mengunduh data. Silakan tunggu.</string>
+    <string name="waiting">Silakan tunggu.</string>
+    <string name="waiting_login">Sedang login. Silakan tunggu.</string>
+    <string name="no_internet">Anda harus terhubung dengan internet untuk mengakses fitur ini.</string>
+    <string name="internal_server_error">Terjadi kesalahan pada jaringan.</string>
+
+</resources>
