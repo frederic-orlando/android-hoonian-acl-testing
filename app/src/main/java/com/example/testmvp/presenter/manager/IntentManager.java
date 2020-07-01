@@ -31,9 +31,9 @@ public class IntentManager {
 //        MainActivity_.intent(activity).isFromMore(isFromMore).flags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK).start();
 //        activity.finish();
 //    }
-//
+
     public void moveToNext(String title, int idFragment) {
-//        FromMoreActivity_.intent(activity).title(title).fragmentToAttach(idFragment)
-//                .flags(Intent.FLAG_ACTIVITY_CLEAR_TASK).start();
+        FromMoreActivity_.intent(activity).title(title).fragmentToAttach(idFragment)
+                .flags(Intent.FLAG_ACTIVITY_CLEAR_TASK).start();
     }
 }
